@@ -128,3 +128,9 @@ h1.heading-top {
     width: 80px;
     height: auto;
 }
+
+.footer {
+    display: flex;
+
+}
+
